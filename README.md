@@ -14,9 +14,6 @@ Install the required Python packages using the following command
 ```bash
 pip install -r requirements.txt
 ``
-## Licens
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 **Commit and Push Changes:**
 
